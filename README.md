@@ -1,48 +1,49 @@
- # Cheersway E-commerce Ltd Website
+ # Towett Rising Hotel
+# Towett Rising Hotel Website
 
-Welcome to the official website of **Cheersway E-commerce Ltd**. This is a simple, responsive website built using HTML, CSS, and Bootstrap 5. It showcases the services provided by the surveying company, including topographical surveys, geodetic surveys, construction surveys, and boundary surveys. The website also includes sections for testimonials, a newsletter subscription form, and contact information.
+## Description
+This is the official website for Towett Rising Hotel, a top-tier restaurant offering an exquisite range of local and international dishes. The website provides a user-friendly layout that showcases the hotel's offerings, including a hero section, menu highlights, testimonials, and more.
 
-## Features
+## Website Structure
 
-- **Navigation Bar**: Quick links to the homepage, about page, services, and login page.
-- **Hero Section**: A prominent area for introducing the company and showcasing a search form for services.
-- **Stats Section**: Displays key metrics such as 24/7 customer support, projects completed, and team members.
-- **Consulting Specialists**: Details about the company's surveying services with images.
-- **Why Choose Us Section**: Highlights the key reasons customers should choose Cheersway E-commerce.
-- **Testimonials Section**: Displays client feedback on services.
-- **Newsletter Section**: A form to subscribe to the company newsletter.
-- **Footer**: Contact information and additional useful links.
+### 1. **Navigation Bar**
+   - The navigation bar includes links to key sections of the site: Home, About, Menu, Reservations, Contact, and a Log In button.
 
-## Installation
+### 2. **Hero Section**
+   - This section features a welcoming message and an image highlighting the hotel’s atmosphere. It also includes a search bar for browsing the menu.
 
-To run this project locally:
+### 3. **Stats Section**
+   - This section showcases key statistics such as:
+     - 24/7 Service Availability
+     - 200+ Dishes Served
+     - 1000+ Satisfied Customers
+   - Additionally, it includes an image of one of the hotel’s happy customers.
 
-1. Clone the repository:
+### 4. **Menu Section**
+   - The menu highlights are displayed with images and descriptions of the different categories offered by the hotel: Local Delicacies, International Cuisine, Desserts, and Beverages.
 
-    ```bash
-    git clone https://github.com/<your-username>/Cheersway E-commerce.git
-    ```
+### 5. **Why Choose Us Section**
+   - This section explains why Towett Rising Hotel stands out. It includes an image of the chefs and a message reinforcing the hotel’s excellence in service.
 
-2. Navigate to the project directory:
+### 6. **Testimonials Section**
+   - A place for guest testimonials to highlight positive feedback and customer experiences.
 
-    ```bash
-    cd Cheersway E-commerce
-    ```
+### 7. **Future Excellent Hospitality Section**
+   - A section showcasing the hotel’s commitment to providing top-quality hospitality, with an image to complement the message.
 
-3. Open the `index.html` file in any web browser to view the website.
+### 8. **Newsletter Section**
+   - Visitors can subscribe to the hotel’s newsletter to receive updates on new offers and promotions.
+
+### 9. **Footer**
+   - The footer includes copyright information, useful links (About Us, Privacy Policy, Our Team), and the hotel’s address.
 
 ## Technologies Used
+- **HTML** for structuring the webpage.
+- **CSS** for styling the website.
+- **Bootstrap 5.3** for responsive design and layout.
+- **JavaScript** (via Bootstrap) for the interactive navigation bar.
 
-- **HTML5**
-- **CSS3**
-- **Bootstrap 5**
-- **JavaScript** (for interactive elements, included in Bootstrap)
-
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+## How to Use
+1. Clone the repository using Git:
+   ```bash
+   git clone https://github.com/yourusername/towett-rising-hotel.git
