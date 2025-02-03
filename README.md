@@ -1,6 +1,6 @@
- # PinLoc Surveyors Ltd Website
+ # Cheersway E-commerce Ltd Website
 
-Welcome to the official website of **PinLoc Surveyors Ltd**. This is a simple, responsive website built using HTML, CSS, and Bootstrap 5. It showcases the services provided by the surveying company, including topographical surveys, geodetic surveys, construction surveys, and boundary surveys. The website also includes sections for testimonials, a newsletter subscription form, and contact information.
+Welcome to the official website of **Cheersway E-commerce Ltd**. This is a simple, responsive website built using HTML, CSS, and Bootstrap 5. It showcases the services provided by the surveying company, including topographical surveys, geodetic surveys, construction surveys, and boundary surveys. The website also includes sections for testimonials, a newsletter subscription form, and contact information.
 
 ## Features
 
@@ -8,7 +8,7 @@ Welcome to the official website of **PinLoc Surveyors Ltd**. This is a simple, r
 - **Hero Section**: A prominent area for introducing the company and showcasing a search form for services.
 - **Stats Section**: Displays key metrics such as 24/7 customer support, projects completed, and team members.
 - **Consulting Specialists**: Details about the company's surveying services with images.
-- **Why Choose Us Section**: Highlights the key reasons customers should choose PinLoc Surveyors.
+- **Why Choose Us Section**: Highlights the key reasons customers should choose Cheersway E-commerce.
 - **Testimonials Section**: Displays client feedback on services.
 - **Newsletter Section**: A form to subscribe to the company newsletter.
 - **Footer**: Contact information and additional useful links.
@@ -20,13 +20,13 @@ To run this project locally:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/<your-username>/PinLoc-Surveyors.git
+    git clone https://github.com/<your-username>/Cheersway E-commerce.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd PinLoc-Surveyors
+    cd Cheersway E-commerce
     ```
 
 3. Open the `index.html` file in any web browser to view the website.
