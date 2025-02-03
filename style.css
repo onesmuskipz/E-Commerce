@@ -1,0 +1,102 @@
+/* Custom Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero-section {
+    background-color: maroon;
+    color: white;
+    padding: 50px 20px;
+}
+
+.hero-section .content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+}
+
+.hero-section img {
+    max-width: 600px;
+    border-radius: 600px;
+    height: auto;
+}
+
+.stats-section {
+    background-color: grey;
+    color: white;
+    padding: 30px 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.stats-section div {
+    text-align: center;
+}
+
+.specialists-section {
+    background-color: white;
+    padding: 50px 20px;
+}
+
+.specialist-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.specialist-card img {
+    max-width: 100%;
+    border-radius: 10px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.why-choose-us {
+    background-color: maroon;
+    color: white;
+    padding: 50px 20px;
+}
+
+.testimonials-section {
+    background-color: grey;
+    color: white;
+    padding: 50px 20px;
+}
+
+.newsletter-section {
+    background-color: maroon;
+    color: white;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.footer {
+    background-color: grey;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+}
+
+.image-section img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: maroon;
+    color: white;
+    border-radius: 5px;
+}
+
+.btn-primary:hover {
+    background-color: white;
+    color: maroon;
+    border: 2px solid maroon;
+}
