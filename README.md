@@ -19,3 +19,4 @@ Cheersway E-Commerce is a modern and responsive online shopping website built wi
 - **JavaScript (Bootstrap Bundle)** - Interactive elements.
 
 ## File Structure
+
